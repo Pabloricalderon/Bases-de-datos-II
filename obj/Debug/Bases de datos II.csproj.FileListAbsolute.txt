@@ -1,0 +1,10 @@
+C:\Users\Ricardo\Documents\Programas visual\Bases de datos II\bin\Debug\Bases de datos II.exe.config
+C:\Users\Ricardo\Documents\Programas visual\Bases de datos II\bin\Debug\Bases de datos II.exe
+C:\Users\Ricardo\Documents\Programas visual\Bases de datos II\bin\Debug\Bases de datos II.pdb
+C:\Users\Ricardo\Documents\Programas visual\Bases de datos II\obj\Debug\Bases de datos II.csproj.AssemblyReference.cache
+C:\Users\Ricardo\Documents\Programas visual\Bases de datos II\obj\Debug\Bases_de_datos_II.Form1.resources
+C:\Users\Ricardo\Documents\Programas visual\Bases de datos II\obj\Debug\Bases_de_datos_II.Properties.Resources.resources
+C:\Users\Ricardo\Documents\Programas visual\Bases de datos II\obj\Debug\Bases de datos II.csproj.GenerateResource.cache
+C:\Users\Ricardo\Documents\Programas visual\Bases de datos II\obj\Debug\Bases de datos II.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Documents\Programas visual\Bases de datos II\obj\Debug\Bases de datos II.exe
+C:\Users\Ricardo\Documents\Programas visual\Bases de datos II\obj\Debug\Bases de datos II.pdb
