@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edgar\\Documents\\Sexto semestre\\BD II\\Bases-de-datos-II\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E37668C8-C650-4107-904F-B37E6FD7AD9F}|Bases de datos II.csproj|c:\\users\\edgar\\documents\\sexto semestre\\bd ii\\bases-de-datos-ii\\fmnuevocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E37668C8-C650-4107-904F-B37E6FD7AD9F}|Bases de datos II.csproj|solutionrelative:fmnuevocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37668C8-C650-4107-904F-B37E6FD7AD9F}|Bases de datos II.csproj|c:\\users\\edgar\\documents\\sexto semestre\\bd ii\\bases-de-datos-ii\\fmnuevoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E37668C8-C650-4107-904F-B37E6FD7AD9F}|Bases de datos II.csproj|solutionrelative:fmnuevoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37668C8-C650-4107-904F-B37E6FD7AD9F}|Bases de datos II.csproj|c:\\users\\edgar\\documents\\sexto semestre\\bd ii\\bases-de-datos-ii\\fmnuevocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E37668C8-C650-4107-904F-B37E6FD7AD9F}|Bases de datos II.csproj|solutionrelative:fmnuevocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37668C8-C650-4107-904F-B37E6FD7AD9F}|Bases de datos II.csproj|c:\\users\\edgar\\documents\\sexto semestre\\bd ii\\bases-de-datos-ii\\fmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E37668C8-C650-4107-904F-B37E6FD7AD9F}|Bases de datos II.csproj|solutionrelative:fmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37668C8-C650-4107-904F-B37E6FD7AD9F}|Bases de datos II.csproj|c:\\users\\edgar\\documents\\sexto semestre\\bd ii\\bases-de-datos-ii\\fmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E37668C8-C650-4107-904F-B37E6FD7AD9F}|Bases de datos II.csproj|solutionrelative:fmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FmNuevoProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documents\\Sexto semestre\\BD II\\Bases-de-datos-II\\FmNuevoProducto.cs",
+              "RelativeDocumentMoniker": "FmNuevoProducto.cs",
+              "ToolTip": "C:\\Users\\edgar\\Documents\\Sexto semestre\\BD II\\Bases-de-datos-II\\FmNuevoProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FmNuevoProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T16:27:16.422Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FmNuevoCliente.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documents\\Sexto semestre\\BD II\\Bases-de-datos-II\\FmNuevoCliente.cs",
+              "RelativeDocumentMoniker": "FmNuevoCliente.cs",
+              "ToolTip": "C:\\Users\\edgar\\Documents\\Sexto semestre\\BD II\\Bases-de-datos-II\\FmNuevoCliente.cs",
+              "RelativeToolTip": "FmNuevoCliente.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAArwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T16:12:16.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FmNuevoCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documents\\Sexto semestre\\BD II\\Bases-de-datos-II\\FmNuevoCliente.cs",
+              "RelativeDocumentMoniker": "FmNuevoCliente.cs",
+              "ToolTip": "C:\\Users\\edgar\\Documents\\Sexto semestre\\BD II\\Bases-de-datos-II\\FmNuevoCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FmNuevoCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T16:09:51.121Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documents\\Sexto semestre\\BD II\\Bases-de-datos-II\\FmLogin.cs",
+              "RelativeDocumentMoniker": "FmLogin.cs",
+              "ToolTip": "C:\\Users\\edgar\\Documents\\Sexto semestre\\BD II\\Bases-de-datos-II\\FmLogin.cs",
+              "RelativeToolTip": "FmLogin.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T22:59:09.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FmLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documents\\Sexto semestre\\BD II\\Bases-de-datos-II\\FmLogin.cs",
+              "RelativeDocumentMoniker": "FmLogin.cs",
+              "ToolTip": "C:\\Users\\edgar\\Documents\\Sexto semestre\\BD II\\Bases-de-datos-II\\FmLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FmLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T22:59:05.15Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

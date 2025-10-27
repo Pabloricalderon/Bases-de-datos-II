@@ -10,14 +10,14 @@ using System.Windows.Forms;
 
 namespace Bases_de_datos_II
 {
-    public partial class Form1 : Form
+    public partial class FmNuevoCliente : Form
     {
-        public Form1()
+        public FmNuevoCliente()
         {
             InitializeComponent();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void label1_Click(object sender, EventArgs e)
         {
 
         }

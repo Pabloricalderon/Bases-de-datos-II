@@ -16,7 +16,7 @@ namespace Bases_de_datos_II
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new FmLogin());
         }
     }
 }
