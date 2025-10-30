@@ -16,5 +16,10 @@ namespace Bases_de_datos_II
         {
             InitializeComponent();
         }
+
+        private void btnUsuarios_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
