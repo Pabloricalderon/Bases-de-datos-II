@@ -10,21 +10,11 @@ using System.Windows.Forms;
 
 namespace Bases_de_datos_II
 {
-    public partial class FmClientes : Form
+    public partial class FmMenu : Form
     {
-        public FmClientes()
+        public FmMenu()
         {
             InitializeComponent();
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void FmClientes_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }
