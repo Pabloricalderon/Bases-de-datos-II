@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Ricardo\\Documents\\Programas visual\\Bases-de-datos-II\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E37668C8-C650-4107-904F-B37E6FD7AD9F}|Bases de datos II.csproj|c:\\users\\ricardo\\documents\\programas visual\\bases-de-datos-ii\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E37668C8-C650-4107-904F-B37E6FD7AD9F}|Bases de datos II.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E37668C8-C650-4107-904F-B37E6FD7AD9F}|Bases de datos II.csproj|c:\\users\\ricardo\\documents\\programas visual\\bases-de-datos-ii\\fmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E37668C8-C650-4107-904F-B37E6FD7AD9F}|Bases de datos II.csproj|solutionrelative:fmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -11,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{E37668C8-C650-4107-904F-B37E6FD7AD9F}|Bases de datos II.csproj|solutionrelative:fmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E37668C8-C650-4107-904F-B37E6FD7AD9F}|Bases de datos II.csproj|c:\\users\\ricardo\\documents\\programas visual\\bases-de-datos-ii\\fmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E37668C8-C650-4107-904F-B37E6FD7AD9F}|Bases de datos II.csproj|C:\\Users\\Ricardo\\Documents\\Programas visual\\Bases-de-datos-II\\fmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E37668C8-C650-4107-904F-B37E6FD7AD9F}|Bases de datos II.csproj|solutionrelative:fmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -51,6 +55,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Ricardo\\Documents\\Programas visual\\Bases-de-datos-II\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\Ricardo\\Documents\\Programas visual\\Bases-de-datos-II\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-30T01:53:25.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FmMenu.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Ricardo\\Documents\\Programas visual\\Bases-de-datos-II\\FmMenu.cs",
               "RelativeDocumentMoniker": "FmMenu.cs",
@@ -62,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "FmProductos.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Ricardo\\Documents\\Programas visual\\Bases-de-datos-II\\FmProductos.cs",
               "RelativeDocumentMoniker": "FmProductos.cs",
@@ -74,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FmClientes.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Ricardo\\Documents\\Programas visual\\Bases-de-datos-II\\FmClientes.cs",
               "RelativeDocumentMoniker": "FmClientes.cs",
@@ -86,58 +103,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "FmNuevoProducto.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Ricardo\\Documents\\Programas visual\\Bases-de-datos-II\\FmNuevoProducto.cs",
               "RelativeDocumentMoniker": "FmNuevoProducto.cs",
               "ToolTip": "C:\\Users\\Ricardo\\Documents\\Programas visual\\Bases-de-datos-II\\FmNuevoProducto.cs [Dise\u00F1o]",
               "RelativeToolTip": "FmNuevoProducto.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T16:27:16.422Z"
+              "WhenOpened": "2025-10-27T16:27:16.422Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "FmNuevoCliente.cs",
               "DocumentMoniker": "C:\\Users\\Ricardo\\Documents\\Programas visual\\Bases-de-datos-II\\FmNuevoCliente.cs",
               "RelativeDocumentMoniker": "FmNuevoCliente.cs",
               "ToolTip": "C:\\Users\\Ricardo\\Documents\\Programas visual\\Bases-de-datos-II\\FmNuevoCliente.cs",
               "RelativeToolTip": "FmNuevoCliente.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T16:12:16.856Z"
+              "WhenOpened": "2025-10-27T16:12:16.856Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "FmNuevoCliente.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Ricardo\\Documents\\Programas visual\\Bases-de-datos-II\\FmNuevoCliente.cs",
               "RelativeDocumentMoniker": "FmNuevoCliente.cs",
               "ToolTip": "C:\\Users\\Ricardo\\Documents\\Programas visual\\Bases-de-datos-II\\FmNuevoCliente.cs [Dise\u00F1o]",
               "RelativeToolTip": "FmNuevoCliente.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T16:09:51.121Z"
+              "WhenOpened": "2025-10-27T16:09:51.121Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "FmLogin.cs",
               "DocumentMoniker": "C:\\Users\\Ricardo\\Documents\\Programas visual\\Bases-de-datos-II\\FmLogin.cs",
               "RelativeDocumentMoniker": "FmLogin.cs",
               "ToolTip": "C:\\Users\\Ricardo\\Documents\\Programas visual\\Bases-de-datos-II\\FmLogin.cs",
               "RelativeToolTip": "FmLogin.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T22:59:09.118Z"
+              "WhenOpened": "2025-10-21T22:59:09.118Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "FmLogin.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Ricardo\\Documents\\Programas visual\\Bases-de-datos-II\\FmLogin.cs",
               "RelativeDocumentMoniker": "FmLogin.cs",
               "ToolTip": "C:\\Users\\Ricardo\\Documents\\Programas visual\\Bases-de-datos-II\\FmLogin.cs [Dise\u00F1o]",
               "RelativeToolTip": "FmLogin.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T22:59:05.15Z"
+              "WhenOpened": "2025-10-21T22:59:05.15Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
