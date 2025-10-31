@@ -30,7 +30,7 @@
         {
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.txtNombreCliente = new System.Windows.Forms.TextBox();
+            this.txtNombre = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.txtDireccion = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
@@ -42,7 +42,7 @@
             this.label7 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
             this.cbEstado = new System.Windows.Forms.ComboBox();
-            this.btnGuardarCliente = new System.Windows.Forms.Button();
+            this.btnGuardar = new System.Windows.Forms.Button();
             this.btnCancelar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
@@ -66,12 +66,12 @@
             this.label2.TabIndex = 1;
             this.label2.Text = "Nombre:";
             // 
-            // txtNombreCliente
+            // txtNombre
             // 
-            this.txtNombreCliente.Location = new System.Drawing.Point(96, 96);
-            this.txtNombreCliente.Name = "txtNombreCliente";
-            this.txtNombreCliente.Size = new System.Drawing.Size(218, 26);
-            this.txtNombreCliente.TabIndex = 2;
+            this.txtNombre.Location = new System.Drawing.Point(96, 96);
+            this.txtNombre.Name = "txtNombre";
+            this.txtNombre.Size = new System.Drawing.Size(218, 26);
+            this.txtNombre.TabIndex = 2;
             // 
             // label3
             // 
@@ -165,14 +165,14 @@
             this.cbEstado.Size = new System.Drawing.Size(121, 28);
             this.cbEstado.TabIndex = 14;
             // 
-            // btnGuardarCliente
+            // btnGuardar
             // 
-            this.btnGuardarCliente.Location = new System.Drawing.Point(35, 304);
-            this.btnGuardarCliente.Name = "btnGuardarCliente";
-            this.btnGuardarCliente.Size = new System.Drawing.Size(106, 46);
-            this.btnGuardarCliente.TabIndex = 15;
-            this.btnGuardarCliente.Text = "Guardar";
-            this.btnGuardarCliente.UseVisualStyleBackColor = true;
+            this.btnGuardar.Location = new System.Drawing.Point(35, 304);
+            this.btnGuardar.Name = "btnGuardar";
+            this.btnGuardar.Size = new System.Drawing.Size(106, 46);
+            this.btnGuardar.TabIndex = 15;
+            this.btnGuardar.Text = "Guardar";
+            this.btnGuardar.UseVisualStyleBackColor = true;
             // 
             // btnCancelar
             // 
@@ -189,7 +189,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(370, 393);
             this.Controls.Add(this.btnCancelar);
-            this.Controls.Add(this.btnGuardarCliente);
+            this.Controls.Add(this.btnGuardar);
             this.Controls.Add(this.cbEstado);
             this.Controls.Add(this.label8);
             this.Controls.Add(this.txtCorreo);
@@ -201,7 +201,7 @@
             this.Controls.Add(this.txtDireccion);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
-            this.Controls.Add(this.txtNombreCliente);
+            this.Controls.Add(this.txtNombre);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "FmNuevoCliente";
@@ -215,7 +215,7 @@
 
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.TextBox txtNombreCliente;
+        private System.Windows.Forms.TextBox txtNombre;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox txtDireccion;
         private System.Windows.Forms.Label label4;
@@ -227,7 +227,7 @@
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.ComboBox cbEstado;
-        private System.Windows.Forms.Button btnGuardarCliente;
+        private System.Windows.Forms.Button btnGuardar;
         private System.Windows.Forms.Button btnCancelar;
     }
 }

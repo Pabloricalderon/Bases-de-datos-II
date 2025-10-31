@@ -29,128 +29,111 @@
         private void InitializeComponent()
         {
             this.btnCancelar = new System.Windows.Forms.Button();
-            this.btnGuardarProducto = new System.Windows.Forms.Button();
-            this.cbCategoriaProducto = new System.Windows.Forms.ComboBox();
+            this.btnGuardar = new System.Windows.Forms.Button();
+            this.cboCategoria = new System.Windows.Forms.ComboBox();
             this.label8 = new System.Windows.Forms.Label();
-            this.txtExistenciaProducto = new System.Windows.Forms.TextBox();
             this.label7 = new System.Windows.Forms.Label();
-            this.txtCodigoProducto = new System.Windows.Forms.TextBox();
-            this.label6 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
-            this.txtPrecioProducto = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
-            this.txtNombreProducto = new System.Windows.Forms.TextBox();
+            this.txtNombre = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.cbUnidadProducto = new System.Windows.Forms.ComboBox();
+            this.cboUnidad = new System.Windows.Forms.ComboBox();
+            this.nudStock = new System.Windows.Forms.NumericUpDown();
+            this.nudPrecio = new System.Windows.Forms.NumericUpDown();
+            this.nudDuracion = new System.Windows.Forms.NumericUpDown();
+            this.nudCobertura = new System.Windows.Forms.NumericUpDown();
+            this.txtColor = new System.Windows.Forms.TextBox();
+            this.lblDuracion = new System.Windows.Forms.Label();
+            this.lblCobertura = new System.Windows.Forms.Label();
+            this.lblColor = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.nudDescuento = new System.Windows.Forms.NumericUpDown();
+            this.label11 = new System.Windows.Forms.Label();
+            this.txtDescripcion = new System.Windows.Forms.TextBox();
+            ((System.ComponentModel.ISupportInitialize)(this.nudStock)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nudPrecio)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nudDuracion)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nudCobertura)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nudDescuento)).BeginInit();
             this.SuspendLayout();
             // 
             // btnCancelar
             // 
-            this.btnCancelar.Location = new System.Drawing.Point(199, 306);
+            this.btnCancelar.Location = new System.Drawing.Point(272, 464);
             this.btnCancelar.Name = "btnCancelar";
             this.btnCancelar.Size = new System.Drawing.Size(98, 46);
             this.btnCancelar.TabIndex = 31;
             this.btnCancelar.Text = "Cancelar";
             this.btnCancelar.UseVisualStyleBackColor = true;
             // 
-            // btnGuardarProducto
+            // btnGuardar
             // 
-            this.btnGuardarProducto.Location = new System.Drawing.Point(41, 306);
-            this.btnGuardarProducto.Name = "btnGuardarProducto";
-            this.btnGuardarProducto.Size = new System.Drawing.Size(106, 46);
-            this.btnGuardarProducto.TabIndex = 30;
-            this.btnGuardarProducto.Text = "Guardar";
-            this.btnGuardarProducto.UseVisualStyleBackColor = true;
+            this.btnGuardar.Location = new System.Drawing.Point(99, 464);
+            this.btnGuardar.Name = "btnGuardar";
+            this.btnGuardar.Size = new System.Drawing.Size(106, 46);
+            this.btnGuardar.TabIndex = 30;
+            this.btnGuardar.Text = "Guardar";
+            this.btnGuardar.UseVisualStyleBackColor = true;
             // 
-            // cbCategoriaProducto
+            // cboCategoria
             // 
-            this.cbCategoriaProducto.FormattingEnabled = true;
-            this.cbCategoriaProducto.Items.AddRange(new object[] {
+            this.cboCategoria.FormattingEnabled = true;
+            this.cboCategoria.Items.AddRange(new object[] {
             "Activo",
             "Inactivo"});
-            this.cbCategoriaProducto.Location = new System.Drawing.Point(102, 135);
-            this.cbCategoriaProducto.Name = "cbCategoriaProducto";
-            this.cbCategoriaProducto.Size = new System.Drawing.Size(121, 28);
-            this.cbCategoriaProducto.TabIndex = 29;
+            this.cboCategoria.Location = new System.Drawing.Point(148, 144);
+            this.cboCategoria.Name = "cboCategoria";
+            this.cboCategoria.Size = new System.Drawing.Size(139, 28);
+            this.cboCategoria.TabIndex = 29;
             // 
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(20, 248);
+            this.label8.Location = new System.Drawing.Point(48, 296);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(81, 20);
             this.label8.TabIndex = 28;
             this.label8.Text = "Existencia";
             // 
-            // txtExistenciaProducto
-            // 
-            this.txtExistenciaProducto.Location = new System.Drawing.Point(102, 245);
-            this.txtExistenciaProducto.Name = "txtExistenciaProducto";
-            this.txtExistenciaProducto.Size = new System.Drawing.Size(218, 26);
-            this.txtExistenciaProducto.TabIndex = 27;
-            // 
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(19, 211);
+            this.label7.Location = new System.Drawing.Point(47, 220);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(57, 20);
             this.label7.TabIndex = 26;
             this.label7.Text = "Precio:";
             // 
-            // txtCodigoProducto
-            // 
-            this.txtCodigoProducto.Location = new System.Drawing.Point(102, 59);
-            this.txtCodigoProducto.Name = "txtCodigoProducto";
-            this.txtCodigoProducto.Size = new System.Drawing.Size(218, 26);
-            this.txtCodigoProducto.TabIndex = 25;
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(20, 62);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(63, 20);
-            this.label6.TabIndex = 24;
-            this.label6.Text = "Codigo:";
-            // 
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(19, 174);
+            this.label5.Location = new System.Drawing.Point(47, 183);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(64, 20);
             this.label5.TabIndex = 22;
             this.label5.Text = "Unidad:";
             // 
-            // txtPrecioProducto
-            // 
-            this.txtPrecioProducto.Location = new System.Drawing.Point(102, 208);
-            this.txtPrecioProducto.Name = "txtPrecioProducto";
-            this.txtPrecioProducto.Size = new System.Drawing.Size(218, 26);
-            this.txtPrecioProducto.TabIndex = 21;
-            // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(20, 135);
+            this.label4.Location = new System.Drawing.Point(48, 144);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(82, 20);
             this.label4.TabIndex = 20;
             this.label4.Text = "Categoria:";
             // 
-            // txtNombreProducto
+            // txtNombre
             // 
-            this.txtNombreProducto.Location = new System.Drawing.Point(102, 98);
-            this.txtNombreProducto.Name = "txtNombreProducto";
-            this.txtNombreProducto.Size = new System.Drawing.Size(218, 26);
-            this.txtNombreProducto.TabIndex = 19;
+            this.txtNombre.Location = new System.Drawing.Point(148, 68);
+            this.txtNombre.Name = "txtNombre";
+            this.txtNombre.Size = new System.Drawing.Size(218, 26);
+            this.txtNombre.TabIndex = 19;
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(19, 95);
+            this.label2.Location = new System.Drawing.Point(48, 65);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(69, 20);
             this.label2.TabIndex = 18;
@@ -166,39 +149,147 @@
             this.label1.TabIndex = 17;
             this.label1.Text = "Nuevo Producto";
             // 
-            // cbUnidadProducto
+            // cboUnidad
             // 
-            this.cbUnidadProducto.FormattingEnabled = true;
-            this.cbUnidadProducto.Items.AddRange(new object[] {
+            this.cboUnidad.FormattingEnabled = true;
+            this.cboUnidad.Items.AddRange(new object[] {
             "Activo",
             "Inactivo"});
-            this.cbUnidadProducto.Location = new System.Drawing.Point(102, 171);
-            this.cbUnidadProducto.Name = "cbUnidadProducto";
-            this.cbUnidadProducto.Size = new System.Drawing.Size(121, 28);
-            this.cbUnidadProducto.TabIndex = 32;
+            this.cboUnidad.Location = new System.Drawing.Point(148, 180);
+            this.cboUnidad.Name = "cboUnidad";
+            this.cboUnidad.Size = new System.Drawing.Size(139, 28);
+            this.cboUnidad.TabIndex = 32;
+            // 
+            // nudStock
+            // 
+            this.nudStock.Location = new System.Drawing.Point(148, 296);
+            this.nudStock.Name = "nudStock";
+            this.nudStock.Size = new System.Drawing.Size(120, 26);
+            this.nudStock.TabIndex = 33;
+            // 
+            // nudPrecio
+            // 
+            this.nudPrecio.Location = new System.Drawing.Point(148, 220);
+            this.nudPrecio.Name = "nudPrecio";
+            this.nudPrecio.Size = new System.Drawing.Size(120, 26);
+            this.nudPrecio.TabIndex = 34;
+            // 
+            // nudDuracion
+            // 
+            this.nudDuracion.Location = new System.Drawing.Point(148, 328);
+            this.nudDuracion.Name = "nudDuracion";
+            this.nudDuracion.Size = new System.Drawing.Size(120, 26);
+            this.nudDuracion.TabIndex = 35;
+            // 
+            // nudCobertura
+            // 
+            this.nudCobertura.Location = new System.Drawing.Point(148, 360);
+            this.nudCobertura.Name = "nudCobertura";
+            this.nudCobertura.Size = new System.Drawing.Size(120, 26);
+            this.nudCobertura.TabIndex = 36;
+            // 
+            // txtColor
+            // 
+            this.txtColor.Location = new System.Drawing.Point(148, 399);
+            this.txtColor.Name = "txtColor";
+            this.txtColor.Size = new System.Drawing.Size(218, 26);
+            this.txtColor.TabIndex = 37;
+            // 
+            // lblDuracion
+            // 
+            this.lblDuracion.AutoSize = true;
+            this.lblDuracion.Location = new System.Drawing.Point(47, 334);
+            this.lblDuracion.Name = "lblDuracion";
+            this.lblDuracion.Size = new System.Drawing.Size(73, 20);
+            this.lblDuracion.TabIndex = 38;
+            this.lblDuracion.Text = "Duracion";
+            // 
+            // lblCobertura
+            // 
+            this.lblCobertura.AutoSize = true;
+            this.lblCobertura.Location = new System.Drawing.Point(47, 366);
+            this.lblCobertura.Name = "lblCobertura";
+            this.lblCobertura.Size = new System.Drawing.Size(80, 20);
+            this.lblCobertura.TabIndex = 39;
+            this.lblCobertura.Text = "Cobertura";
+            // 
+            // lblColor
+            // 
+            this.lblColor.AutoSize = true;
+            this.lblColor.Location = new System.Drawing.Point(47, 402);
+            this.lblColor.Name = "lblColor";
+            this.lblColor.Size = new System.Drawing.Size(46, 20);
+            this.lblColor.TabIndex = 40;
+            this.lblColor.Text = "Color";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(47, 260);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(87, 20);
+            this.label3.TabIndex = 41;
+            this.label3.Text = "Descuento";
+            // 
+            // nudDescuento
+            // 
+            this.nudDescuento.Location = new System.Drawing.Point(148, 260);
+            this.nudDescuento.Name = "nudDescuento";
+            this.nudDescuento.Size = new System.Drawing.Size(120, 26);
+            this.nudDescuento.TabIndex = 42;
+            // 
+            // label11
+            // 
+            this.label11.AutoSize = true;
+            this.label11.Location = new System.Drawing.Point(49, 106);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(92, 20);
+            this.label11.TabIndex = 43;
+            this.label11.Text = "Descripcion";
+            // 
+            // txtDescripcion
+            // 
+            this.txtDescripcion.Location = new System.Drawing.Point(148, 106);
+            this.txtDescripcion.Name = "txtDescripcion";
+            this.txtDescripcion.Size = new System.Drawing.Size(218, 26);
+            this.txtDescripcion.TabIndex = 44;
             // 
             // FmNuevoProducto
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(373, 381);
-            this.Controls.Add(this.cbUnidadProducto);
+            this.ClientSize = new System.Drawing.Size(457, 544);
+            this.Controls.Add(this.txtDescripcion);
+            this.Controls.Add(this.label11);
+            this.Controls.Add(this.nudDescuento);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.lblColor);
+            this.Controls.Add(this.lblCobertura);
+            this.Controls.Add(this.lblDuracion);
+            this.Controls.Add(this.txtColor);
+            this.Controls.Add(this.nudCobertura);
+            this.Controls.Add(this.nudDuracion);
+            this.Controls.Add(this.nudPrecio);
+            this.Controls.Add(this.nudStock);
+            this.Controls.Add(this.cboUnidad);
             this.Controls.Add(this.btnCancelar);
-            this.Controls.Add(this.btnGuardarProducto);
-            this.Controls.Add(this.cbCategoriaProducto);
+            this.Controls.Add(this.btnGuardar);
+            this.Controls.Add(this.cboCategoria);
             this.Controls.Add(this.label8);
-            this.Controls.Add(this.txtExistenciaProducto);
             this.Controls.Add(this.label7);
-            this.Controls.Add(this.txtCodigoProducto);
-            this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
-            this.Controls.Add(this.txtPrecioProducto);
             this.Controls.Add(this.label4);
-            this.Controls.Add(this.txtNombreProducto);
+            this.Controls.Add(this.txtNombre);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "FmNuevoProducto";
             this.Text = "FmNuevoProducto";
+            this.Load += new System.EventHandler(this.FmNuevoProducto_Load_1);
+            ((System.ComponentModel.ISupportInitialize)(this.nudStock)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nudPrecio)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nudDuracion)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nudCobertura)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nudDescuento)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -207,19 +298,27 @@
         #endregion
 
         private System.Windows.Forms.Button btnCancelar;
-        private System.Windows.Forms.Button btnGuardarProducto;
-        private System.Windows.Forms.ComboBox cbCategoriaProducto;
+        private System.Windows.Forms.Button btnGuardar;
+        private System.Windows.Forms.ComboBox cboCategoria;
         private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.TextBox txtExistenciaProducto;
         private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.TextBox txtCodigoProducto;
-        private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.TextBox txtPrecioProducto;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.TextBox txtNombreProducto;
+        private System.Windows.Forms.TextBox txtNombre;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.ComboBox cbUnidadProducto;
+        private System.Windows.Forms.ComboBox cboUnidad;
+        private System.Windows.Forms.NumericUpDown nudStock;
+        private System.Windows.Forms.NumericUpDown nudPrecio;
+        private System.Windows.Forms.NumericUpDown nudDuracion;
+        private System.Windows.Forms.NumericUpDown nudCobertura;
+        private System.Windows.Forms.TextBox txtColor;
+        private System.Windows.Forms.Label lblDuracion;
+        private System.Windows.Forms.Label lblCobertura;
+        private System.Windows.Forms.Label lblColor;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.NumericUpDown nudDescuento;
+        private System.Windows.Forms.Label label11;
+        private System.Windows.Forms.TextBox txtDescripcion;
     }
 }

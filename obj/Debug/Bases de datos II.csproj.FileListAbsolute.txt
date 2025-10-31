@@ -8,3 +8,43 @@ C:\Users\Ricardo\Documents\Programas visual\Bases de datos II\obj\Debug\Bases de
 C:\Users\Ricardo\Documents\Programas visual\Bases de datos II\obj\Debug\Bases de datos II.csproj.CoreCompileInputs.cache
 C:\Users\Ricardo\Documents\Programas visual\Bases de datos II\obj\Debug\Bases de datos II.exe
 C:\Users\Ricardo\Documents\Programas visual\Bases de datos II\obj\Debug\Bases de datos II.pdb
+C:\Users\edgar\Documents\Sexto semestre\BD II\Bases-de-datos-II\bin\Debug\Bases de datos II.exe.config
+C:\Users\edgar\Documents\Sexto semestre\BD II\Bases-de-datos-II\bin\Debug\Bases de datos II.exe
+C:\Users\edgar\Documents\Sexto semestre\BD II\Bases-de-datos-II\bin\Debug\Bases de datos II.pdb
+C:\Users\edgar\Documents\Sexto semestre\BD II\Bases-de-datos-II\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\edgar\Documents\Sexto semestre\BD II\Bases-de-datos-II\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\edgar\Documents\Sexto semestre\BD II\Bases-de-datos-II\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\edgar\Documents\Sexto semestre\BD II\Bases-de-datos-II\bin\Debug\MySqlConnector.dll
+C:\Users\edgar\Documents\Sexto semestre\BD II\Bases-de-datos-II\bin\Debug\System.Buffers.dll
+C:\Users\edgar\Documents\Sexto semestre\BD II\Bases-de-datos-II\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\edgar\Documents\Sexto semestre\BD II\Bases-de-datos-II\bin\Debug\System.Memory.dll
+C:\Users\edgar\Documents\Sexto semestre\BD II\Bases-de-datos-II\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\edgar\Documents\Sexto semestre\BD II\Bases-de-datos-II\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\edgar\Documents\Sexto semestre\BD II\Bases-de-datos-II\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\edgar\Documents\Sexto semestre\BD II\Bases-de-datos-II\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\edgar\Documents\Sexto semestre\BD II\Bases-de-datos-II\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\edgar\Documents\Sexto semestre\BD II\Bases-de-datos-II\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\edgar\Documents\Sexto semestre\BD II\Bases-de-datos-II\bin\Debug\MySqlConnector.xml
+C:\Users\edgar\Documents\Sexto semestre\BD II\Bases-de-datos-II\bin\Debug\System.Buffers.xml
+C:\Users\edgar\Documents\Sexto semestre\BD II\Bases-de-datos-II\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\edgar\Documents\Sexto semestre\BD II\Bases-de-datos-II\bin\Debug\System.Memory.xml
+C:\Users\edgar\Documents\Sexto semestre\BD II\Bases-de-datos-II\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\edgar\Documents\Sexto semestre\BD II\Bases-de-datos-II\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\edgar\Documents\Sexto semestre\BD II\Bases-de-datos-II\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\edgar\Documents\Sexto semestre\BD II\Bases-de-datos-II\obj\Debug\Bases de datos II.csproj.AssemblyReference.cache
+C:\Users\edgar\Documents\Sexto semestre\BD II\Bases-de-datos-II\obj\Debug\Bases de datos II.csproj.SuggestedBindingRedirects.cache
+C:\Users\edgar\Documents\Sexto semestre\BD II\Bases-de-datos-II\obj\Debug\Bases de datos II.exe.config
+C:\Users\edgar\Documents\Sexto semestre\BD II\Bases-de-datos-II\obj\Debug\Bases_de_datos_II.FmClientes.resources
+C:\Users\edgar\Documents\Sexto semestre\BD II\Bases-de-datos-II\obj\Debug\Bases_de_datos_II.FmLogin.resources
+C:\Users\edgar\Documents\Sexto semestre\BD II\Bases-de-datos-II\obj\Debug\Bases_de_datos_II.FmMenu.resources
+C:\Users\edgar\Documents\Sexto semestre\BD II\Bases-de-datos-II\obj\Debug\Bases_de_datos_II.FmNuevoCliente.resources
+C:\Users\edgar\Documents\Sexto semestre\BD II\Bases-de-datos-II\obj\Debug\Bases_de_datos_II.FmNuevoProducto.resources
+C:\Users\edgar\Documents\Sexto semestre\BD II\Bases-de-datos-II\obj\Debug\Bases_de_datos_II.FmProductos.resources
+C:\Users\edgar\Documents\Sexto semestre\BD II\Bases-de-datos-II\obj\Debug\Bases_de_datos_II.Properties.Resources.resources
+C:\Users\edgar\Documents\Sexto semestre\BD II\Bases-de-datos-II\obj\Debug\Bases de datos II.csproj.GenerateResource.cache
+C:\Users\edgar\Documents\Sexto semestre\BD II\Bases-de-datos-II\obj\Debug\Bases de datos II.csproj.CoreCompileInputs.cache
+C:\Users\edgar\Documents\Sexto semestre\BD II\Bases-de-datos-II\obj\Debug\Bases de.6D873E35.Up2Date
+C:\Users\edgar\Documents\Sexto semestre\BD II\Bases-de-datos-II\obj\Debug\Bases de datos II.exe
+C:\Users\edgar\Documents\Sexto semestre\BD II\Bases-de-datos-II\obj\Debug\Bases de datos II.pdb
+C:\Users\edgar\Documents\Sexto semestre\BD II\Bases-de-datos-II\obj\Debug\Bases_de_datos_II.FmEditarCliente.resources
+C:\Users\edgar\Documents\Sexto semestre\BD II\Bases-de-datos-II\obj\Debug\Bases_de_datos_II.FmEditarProducto.resources
