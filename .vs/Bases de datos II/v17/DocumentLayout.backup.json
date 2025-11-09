@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\edgar\\Documents\\Sexto semestre\\BD II\\Bases-de-datos-II\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E37668C8-C650-4107-904F-B37E6FD7AD9F}|Bases de datos II.csproj|c:\\users\\edgar\\documents\\sexto semestre\\bd ii\\bases-de-datos-ii\\fmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E37668C8-C650-4107-904F-B37E6FD7AD9F}|Bases de datos II.csproj|solutionrelative:fmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E37668C8-C650-4107-904F-B37E6FD7AD9F}|Bases de datos II.csproj|C:\\Users\\edgar\\Documents\\Sexto semestre\\BD II\\Bases-de-datos-II\\fmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E37668C8-C650-4107-904F-B37E6FD7AD9F}|Bases de datos II.csproj|solutionrelative:fmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E37668C8-C650-4107-904F-B37E6FD7AD9F}|Bases de datos II.csproj|C:\\Users\\edgar\\Documents\\Sexto semestre\\BD II\\Bases-de-datos-II\\fmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E37668C8-C650-4107-904F-B37E6FD7AD9F}|Bases de datos II.csproj|solutionrelative:fmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E37668C8-C650-4107-904F-B37E6FD7AD9F}|Bases de datos II.csproj|c:\\users\\edgar\\documents\\sexto semestre\\bd ii\\bases-de-datos-ii\\ticketpdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E37668C8-C650-4107-904F-B37E6FD7AD9F}|Bases de datos II.csproj|solutionrelative:ticketpdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E37668C8-C650-4107-904F-B37E6FD7AD9F}|Bases de datos II.csproj|c:\\users\\edgar\\documents\\sexto semestre\\bd ii\\bases-de-datos-ii\\fmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E37668C8-C650-4107-904F-B37E6FD7AD9F}|Bases de datos II.csproj|solutionrelative:fmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E37668C8-C650-4107-904F-B37E6FD7AD9F}|Bases de datos II.csproj|C:\\Users\\edgar\\Documents\\Sexto semestre\\BD II\\Bases-de-datos-II\\fmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E37668C8-C650-4107-904F-B37E6FD7AD9F}|Bases de datos II.csproj|solutionrelative:fmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E37668C8-C650-4107-904F-B37E6FD7AD9F}|Bases de datos II.csproj|c:\\users\\edgar\\documents\\sexto semestre\\bd ii\\bases-de-datos-ii\\fmeditarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E37668C8-C650-4107-904F-B37E6FD7AD9F}|Bases de datos II.csproj|solutionrelative:fmeditarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E37668C8-C650-4107-904F-B37E6FD7AD9F}|Bases de datos II.csproj|C:\\Users\\edgar\\Documents\\Sexto semestre\\BD II\\Bases-de-datos-II\\fmseleccionproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E37668C8-C650-4107-904F-B37E6FD7AD9F}|Bases de datos II.csproj|solutionrelative:fmseleccionproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E37668C8-C650-4107-904F-B37E6FD7AD9F}|Bases de datos II.csproj|c:\\users\\edgar\\documents\\sexto semestre\\bd ii\\bases-de-datos-ii\\fmeditarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E37668C8-C650-4107-904F-B37E6FD7AD9F}|Bases de datos II.csproj|solutionrelative:fmeditarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E37668C8-C650-4107-904F-B37E6FD7AD9F}|Bases de datos II.csproj|C:\\Users\\edgar\\Documents\\Sexto semestre\\BD II\\Bases-de-datos-II\\capa datos\\ventasrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E37668C8-C650-4107-904F-B37E6FD7AD9F}|Bases de datos II.csproj|solutionrelative:capa datos\\ventasrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E37668C8-C650-4107-904F-B37E6FD7AD9F}|Bases de datos II.csproj|c:\\users\\edgar\\documents\\sexto semestre\\bd ii\\bases-de-datos-ii\\capa datos\\clientesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E37668C8-C650-4107-904F-B37E6FD7AD9F}|Bases de datos II.csproj|solutionrelative:capa datos\\clientesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E37668C8-C650-4107-904F-B37E6FD7AD9F}|Bases de datos II.csproj|c:\\users\\edgar\\documents\\sexto semestre\\bd ii\\bases-de-datos-ii\\capa datos\\productosrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E37668C8-C650-4107-904F-B37E6FD7AD9F}|Bases de datos II.csproj|solutionrelative:capa datos\\productosrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E37668C8-C650-4107-904F-B37E6FD7AD9F}|Bases de datos II.csproj|C:\\Users\\edgar\\Documents\\Sexto semestre\\BD II\\Bases-de-datos-II\\fmseleccioncliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E37668C8-C650-4107-904F-B37E6FD7AD9F}|Bases de datos II.csproj|solutionrelative:fmseleccioncliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,92 +46,77 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FmClientes.cs",
-              "DocumentMoniker": "C:\\Users\\edgar\\Documents\\Sexto semestre\\BD II\\Bases-de-datos-II\\FmClientes.cs",
-              "RelativeDocumentMoniker": "FmClientes.cs",
-              "ToolTip": "C:\\Users\\edgar\\Documents\\Sexto semestre\\BD II\\Bases-de-datos-II\\FmClientes.cs",
-              "RelativeToolTip": "FmClientes.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAkwCAAAAAxAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "TicketPdf.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documents\\Sexto semestre\\BD II\\Bases-de-datos-II\\TicketPdf.cs",
+              "RelativeDocumentMoniker": "TicketPdf.cs",
+              "ToolTip": "C:\\Users\\edgar\\Documents\\Sexto semestre\\BD II\\Bases-de-datos-II\\TicketPdf.cs",
+              "RelativeToolTip": "TicketPdf.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T16:01:06.826Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FmProductos.cs",
-              "DocumentMoniker": "C:\\Users\\edgar\\Documents\\Sexto semestre\\BD II\\Bases-de-datos-II\\FmProductos.cs",
-              "RelativeDocumentMoniker": "FmProductos.cs",
-              "ToolTip": "C:\\Users\\edgar\\Documents\\Sexto semestre\\BD II\\Bases-de-datos-II\\FmProductos.cs",
-              "RelativeToolTip": "FmProductos.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAgwCMAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T15:51:58.553Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FmEditarCliente.cs",
-              "DocumentMoniker": "C:\\Users\\edgar\\Documents\\Sexto semestre\\BD II\\Bases-de-datos-II\\FmEditarCliente.cs",
-              "RelativeDocumentMoniker": "FmEditarCliente.cs",
-              "ToolTip": "C:\\Users\\edgar\\Documents\\Sexto semestre\\BD II\\Bases-de-datos-II\\FmEditarCliente.cs",
-              "RelativeToolTip": "FmEditarCliente.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAADgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T15:43:21.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FmEditarCliente.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\edgar\\Documents\\Sexto semestre\\BD II\\Bases-de-datos-II\\FmEditarCliente.cs",
-              "RelativeDocumentMoniker": "FmEditarCliente.cs",
-              "ToolTip": "C:\\Users\\edgar\\Documents\\Sexto semestre\\BD II\\Bases-de-datos-II\\FmEditarCliente.cs [Dise\u00F1o]",
-              "RelativeToolTip": "FmEditarCliente.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T15:41:43.584Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductosRepo.cs",
-              "DocumentMoniker": "C:\\Users\\edgar\\Documents\\Sexto semestre\\BD II\\Bases-de-datos-II\\Capa Datos\\ProductosRepo.cs",
-              "RelativeDocumentMoniker": "Capa Datos\\ProductosRepo.cs",
-              "ToolTip": "C:\\Users\\edgar\\Documents\\Sexto semestre\\BD II\\Bases-de-datos-II\\Capa Datos\\ProductosRepo.cs",
-              "RelativeToolTip": "Capa Datos\\ProductosRepo.cs",
-              "ViewState": "AgIAANUAAAAAAAAAAAAgwPkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T14:25:22.525Z",
+              "WhenOpened": "2025-11-03T06:33:16.976Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ClientesRepo.cs",
-              "DocumentMoniker": "C:\\Users\\edgar\\Documents\\Sexto semestre\\BD II\\Bases-de-datos-II\\Capa Datos\\ClientesRepo.cs",
-              "RelativeDocumentMoniker": "Capa Datos\\ClientesRepo.cs",
-              "ToolTip": "C:\\Users\\edgar\\Documents\\Sexto semestre\\BD II\\Bases-de-datos-II\\Capa Datos\\ClientesRepo.cs",
-              "RelativeToolTip": "Capa Datos\\ClientesRepo.cs",
-              "ViewState": "AgIAAJIAAAAAAAAAAAAswI0AAAAJAAAAAAAAAA==",
+              "Title": "FmSeleccionCliente.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documents\\Sexto semestre\\BD II\\Bases-de-datos-II\\FmSeleccionCliente.cs",
+              "RelativeDocumentMoniker": "FmSeleccionCliente.cs",
+              "ToolTip": "C:\\Users\\edgar\\Documents\\Sexto semestre\\BD II\\Bases-de-datos-II\\FmSeleccionCliente.cs",
+              "RelativeToolTip": "FmSeleccionCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T14:19:52.763Z",
+              "WhenOpened": "2025-11-03T04:30:29.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VentasRepo.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documents\\Sexto semestre\\BD II\\Bases-de-datos-II\\Capa Datos\\VentasRepo.cs",
+              "RelativeDocumentMoniker": "Capa Datos\\VentasRepo.cs",
+              "ToolTip": "C:\\Users\\edgar\\Documents\\Sexto semestre\\BD II\\Bases-de-datos-II\\Capa Datos\\VentasRepo.cs",
+              "RelativeToolTip": "Capa Datos\\VentasRepo.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T03:57:19.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FmVentas.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documents\\Sexto semestre\\BD II\\Bases-de-datos-II\\FmVentas.cs",
+              "RelativeDocumentMoniker": "FmVentas.cs",
+              "ToolTip": "C:\\Users\\edgar\\Documents\\Sexto semestre\\BD II\\Bases-de-datos-II\\FmVentas.cs",
+              "RelativeToolTip": "FmVentas.cs",
+              "ViewState": "AgIAAAkBAAAAAAAAAAAqwBsBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T03:10:02.743Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FmProductos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\edgar\\Documents\\Sexto semestre\\BD II\\Bases-de-datos-II\\FmProductos.cs",
-              "RelativeDocumentMoniker": "FmProductos.cs",
-              "ToolTip": "C:\\Users\\edgar\\Documents\\Sexto semestre\\BD II\\Bases-de-datos-II\\FmProductos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "FmProductos.cs [Dise\u00F1o]",
+              "DocumentIndex": 0,
+              "Title": "FmVentas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documents\\Sexto semestre\\BD II\\Bases-de-datos-II\\FmVentas.cs",
+              "RelativeDocumentMoniker": "FmVentas.cs",
+              "ToolTip": "C:\\Users\\edgar\\Documents\\Sexto semestre\\BD II\\Bases-de-datos-II\\FmVentas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FmVentas.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T02:18:54.702Z",
+              "WhenOpened": "2025-11-03T03:06:11.439Z",
               "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FmSeleccionProducto.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documents\\Sexto semestre\\BD II\\Bases-de-datos-II\\FmSeleccionProducto.cs",
+              "RelativeDocumentMoniker": "FmSeleccionProducto.cs",
+              "ToolTip": "C:\\Users\\edgar\\Documents\\Sexto semestre\\BD II\\Bases-de-datos-II\\FmSeleccionProducto.cs",
+              "RelativeToolTip": "FmSeleccionProducto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T04:31:12.101Z"
             }
           ]
         }

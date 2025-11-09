@@ -29,12 +29,12 @@
         private void InitializeComponent()
         {
             this.controlPanel = new System.Windows.Forms.Panel();
-            this.btnVentas = new System.Windows.Forms.Button();
-            this.btnClientes = new System.Windows.Forms.Button();
-            this.btnProductos = new System.Windows.Forms.Button();
-            this.btnReportes = new System.Windows.Forms.Button();
-            this.btnUsuarios = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
+            this.btnUsuarios = new System.Windows.Forms.Button();
+            this.btnReportes = new System.Windows.Forms.Button();
+            this.btnProductos = new System.Windows.Forms.Button();
+            this.btnClientes = new System.Windows.Forms.Button();
+            this.btnVentas = new System.Windows.Forms.Button();
             this.panelPrincipal = new System.Windows.Forms.Panel();
             this.controlPanel.SuspendLayout();
             this.SuspendLayout();
@@ -47,80 +47,91 @@
             this.controlPanel.Controls.Add(this.btnProductos);
             this.controlPanel.Controls.Add(this.btnClientes);
             this.controlPanel.Controls.Add(this.btnVentas);
-            this.controlPanel.Location = new System.Drawing.Point(2, 1);
+            this.controlPanel.Location = new System.Drawing.Point(3, 2);
+            this.controlPanel.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.controlPanel.Name = "controlPanel";
-            this.controlPanel.Size = new System.Drawing.Size(153, 447);
+            this.controlPanel.Size = new System.Drawing.Size(230, 688);
             this.controlPanel.TabIndex = 0;
-            // 
-            // btnVentas
-            // 
-            this.btnVentas.Location = new System.Drawing.Point(3, 81);
-            this.btnVentas.Name = "btnVentas";
-            this.btnVentas.Size = new System.Drawing.Size(147, 49);
-            this.btnVentas.TabIndex = 0;
-            this.btnVentas.Text = "Ventas";
-            this.btnVentas.UseVisualStyleBackColor = true;
-            // 
-            // btnClientes
-            // 
-            this.btnClientes.Location = new System.Drawing.Point(3, 136);
-            this.btnClientes.Name = "btnClientes";
-            this.btnClientes.Size = new System.Drawing.Size(147, 49);
-            this.btnClientes.TabIndex = 1;
-            this.btnClientes.Text = "Clientes";
-            this.btnClientes.UseVisualStyleBackColor = true;
-            // 
-            // btnProductos
-            // 
-            this.btnProductos.Location = new System.Drawing.Point(3, 191);
-            this.btnProductos.Name = "btnProductos";
-            this.btnProductos.Size = new System.Drawing.Size(147, 49);
-            this.btnProductos.TabIndex = 2;
-            this.btnProductos.Text = "Productos";
-            this.btnProductos.UseVisualStyleBackColor = true;
-            // 
-            // btnReportes
-            // 
-            this.btnReportes.Location = new System.Drawing.Point(3, 246);
-            this.btnReportes.Name = "btnReportes";
-            this.btnReportes.Size = new System.Drawing.Size(147, 49);
-            this.btnReportes.TabIndex = 3;
-            this.btnReportes.Text = "Reportes";
-            this.btnReportes.UseVisualStyleBackColor = true;
-            // 
-            // btnUsuarios
-            // 
-            this.btnUsuarios.Location = new System.Drawing.Point(3, 301);
-            this.btnUsuarios.Name = "btnUsuarios";
-            this.btnUsuarios.Size = new System.Drawing.Size(147, 49);
-            this.btnUsuarios.TabIndex = 4;
-            this.btnUsuarios.Text = "Usuarios";
-            this.btnUsuarios.UseVisualStyleBackColor = true;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(10, 19);
+            this.label1.Location = new System.Drawing.Point(15, 29);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(139, 37);
+            this.label1.Size = new System.Drawing.Size(203, 55);
             this.label1.TabIndex = 5;
             this.label1.Text = "PAINTS";
             // 
+            // btnUsuarios
+            // 
+            this.btnUsuarios.Location = new System.Drawing.Point(4, 463);
+            this.btnUsuarios.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btnUsuarios.Name = "btnUsuarios";
+            this.btnUsuarios.Size = new System.Drawing.Size(220, 75);
+            this.btnUsuarios.TabIndex = 4;
+            this.btnUsuarios.Text = "Usuarios";
+            this.btnUsuarios.UseVisualStyleBackColor = true;
+            // 
+            // btnReportes
+            // 
+            this.btnReportes.Location = new System.Drawing.Point(4, 378);
+            this.btnReportes.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btnReportes.Name = "btnReportes";
+            this.btnReportes.Size = new System.Drawing.Size(220, 75);
+            this.btnReportes.TabIndex = 3;
+            this.btnReportes.Text = "Reportes";
+            this.btnReportes.UseVisualStyleBackColor = true;
+            // 
+            // btnProductos
+            // 
+            this.btnProductos.Location = new System.Drawing.Point(4, 294);
+            this.btnProductos.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btnProductos.Name = "btnProductos";
+            this.btnProductos.Size = new System.Drawing.Size(220, 75);
+            this.btnProductos.TabIndex = 2;
+            this.btnProductos.Text = "Productos";
+            this.btnProductos.UseVisualStyleBackColor = true;
+            // 
+            // btnClientes
+            // 
+            this.btnClientes.Location = new System.Drawing.Point(4, 209);
+            this.btnClientes.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btnClientes.Name = "btnClientes";
+            this.btnClientes.Size = new System.Drawing.Size(220, 75);
+            this.btnClientes.TabIndex = 1;
+            this.btnClientes.Text = "Clientes";
+            this.btnClientes.UseVisualStyleBackColor = true;
+            this.btnClientes.Click += new System.EventHandler(this.btnClientes_Click);
+            // 
+            // btnVentas
+            // 
+            this.btnVentas.Location = new System.Drawing.Point(4, 125);
+            this.btnVentas.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btnVentas.Name = "btnVentas";
+            this.btnVentas.Size = new System.Drawing.Size(220, 75);
+            this.btnVentas.TabIndex = 0;
+            this.btnVentas.Text = "Ventas";
+            this.btnVentas.UseVisualStyleBackColor = true;
+            // 
             // panelPrincipal
             // 
-            this.panelPrincipal.Location = new System.Drawing.Point(157, 1);
+            this.panelPrincipal.Location = new System.Drawing.Point(236, 2);
+            this.panelPrincipal.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.panelPrincipal.MaximumSize = new System.Drawing.Size(936, 950);
             this.panelPrincipal.Name = "panelPrincipal";
-            this.panelPrincipal.Size = new System.Drawing.Size(637, 446);
+            this.panelPrincipal.Size = new System.Drawing.Size(936, 887);
             this.panelPrincipal.TabIndex = 1;
             // 
             // FmMenu
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(1200, 918);
             this.Controls.Add(this.panelPrincipal);
             this.Controls.Add(this.controlPanel);
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "FmMenu";
             this.Text = "FmMenu";
             this.controlPanel.ResumeLayout(false);

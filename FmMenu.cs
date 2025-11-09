@@ -18,10 +18,22 @@ namespace Bases_de_datos_II
         {
             InitializeComponent();
 
-            // Ajusta estos nombres a tus botones reales
-            btnClientes.Click += (s, e) => LoadChild(new FmClientes());
-            btnProductos.Click += (s, e) => LoadChild(new FmProductos());
+            // Mostrar Ventas al abrir el menú
+            this.Load += FmMenu_Load;
+
+            // Navegación por botones (ajusta los nombres si difieren)
+            btnVentas.Click += btnVentas_Click;
+            btnClientes.Click += btnClientes_Click;
+            btnProductos.Click += btnProductos_Click;
         }
+
+        private void FmMenu_Load(object sender, EventArgs e) => AbrirVentas();
+
+        private void btnVentas_Click(object sender, EventArgs e) => AbrirVentas();
+        private void btnClientes_Click(object sender, EventArgs e) => LoadChild(new FmClientes());
+        private void btnProductos_Click(object sender, EventArgs e) => LoadChild(new FmProductos());
+
+        private void AbrirVentas() => LoadChild(new FmVentas());
 
         private void LoadChild(Form child)
         {
@@ -29,6 +41,7 @@ namespace Bases_de_datos_II
             {
                 _child.Close();
                 _child.Dispose();
+                _child = null;
             }
 
             _child = child;
@@ -36,9 +49,10 @@ namespace Bases_de_datos_II
             child.FormBorderStyle = FormBorderStyle.None;
             child.Dock = DockStyle.Fill;
 
-            panelPrincipal.Controls.Clear();   // asegúrate que el panel se llame así
+            panelPrincipal.Controls.Clear();
             panelPrincipal.Controls.Add(child);
             child.Show();
+            child.BringToFront();
         }
     }
 }
